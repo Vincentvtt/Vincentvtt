@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vincentvtt
 - 👀 I’m interested in learning new things!
-- 🌱 I’m currently learning devops and full-stack web development.
+- 🌱 I’m currently learning devops and full-stack development.
 - 📫 How to reach me - https://www.linkedin.com/in/vincenttsaics/
 
 <!---
